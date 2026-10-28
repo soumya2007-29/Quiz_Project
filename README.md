@@ -74,7 +74,7 @@ See [`audit.md`](audit.md) for the detailed audit report.
 
 ## Author
 
-**Hritu Raj**
+**Soumya Singh Bais**
 
 Computer Science Engineering Student
 
